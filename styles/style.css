@@ -33,6 +33,7 @@ body {
  font-weight: 100;
  letter-spacing: -2px;
  text-align: right;
+ padding-left: 10px; 
  }
  #header h1 a:hover {
  color: #111;
