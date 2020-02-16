@@ -26,6 +26,8 @@ body {
 	letter-spacing: -1px;
 	padding: 20px, 0, 0, 20px;
 	color: #ff5500;
+	text-align: right;
+ padding-left: 10px; 
 }
 #header h1 a {
  color: #fff;
