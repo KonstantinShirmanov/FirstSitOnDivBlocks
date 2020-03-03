@@ -37,7 +37,7 @@ body {
  color: #111;
  }
 
- #header h1 p {
+ #header h1 a p {
  	margin-left: 10px;
  	padding-left: 10px;
  }
